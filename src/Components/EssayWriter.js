@@ -8,7 +8,7 @@ const EssayWriter = () => {
   return (
     <div className="about-section-container">
       <div className="about-section-text-container">
-        <h1 className="primary-heading">Write ExceptionaL Essays</h1>
+        <h1 className="primary-heading">Write Exceptional Essays</h1>
         <p className="primary-text">
           With a prompt and a word count, Solvy can generate full, exceptional essays with up to 1200 words. 
         </p>
