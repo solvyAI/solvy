@@ -63,7 +63,7 @@ const PrivacyPolicy = () => {
           Solvy AI includes paid, auto-renewable subscriptions (Solvy Pro) which allows for unlimited use of the application's features. As of June 26, 2024, users without a subscription are limited to 5 uses a day. 
           The subscriptions and prices are outlined in the Solvy Pro part of the application. 
           All payments and subscriptions are handled by Apple. Cancellations are done through the iOS settings app or in the "account" page of Solvy AI. 
-          Please consult Apple for refunds, cancellations, and any other mishap or concern, as we do not handle payments. 
+          Please consult Apple for refunds, cancellations, and any other mishap or concern, as we do not handle payments. Solvy AI is also subject to Apple's end user license agreement (EULA), which can be referenced at <span class="underline">https://www.apple.com/legal/internet-services/itunes/dev/stdeula/ </span>
           </p>
          
 
