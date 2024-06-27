@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/solvy/static/css/main.3bcb40e7.css",
-    "main.js": "/solvy/static/js/main.aec98443.js",
+    "main.css": "/solvy/static/css/main.1a1fb32a.css",
+    "main.js": "/solvy/static/js/main.a410f3c7.js",
     "static/media/home-banner-image.png": "/solvy/static/media/home-banner-image.a41849b23e5c36d66717.png",
     "static/media/Untitled design(9).png": "/solvy/static/media/Untitled design(9).97f784183a7c4105212e.png",
     "static/media/about-background-image.png": "/solvy/static/media/about-background-image.d0e45280dd69dec26ee6.png",
@@ -14,11 +14,11 @@
     "static/media/Untitled design(6).png": "/solvy/static/media/Untitled design(6).d353e440f395777cde68.png",
     "static/media/home-banner-background.png": "/solvy/static/media/home-banner-background.585600da7ff85661555e.png",
     "index.html": "/solvy/index.html",
-    "main.3bcb40e7.css.map": "/solvy/static/css/main.3bcb40e7.css.map",
-    "main.aec98443.js.map": "/solvy/static/js/main.aec98443.js.map"
+    "main.1a1fb32a.css.map": "/solvy/static/css/main.1a1fb32a.css.map",
+    "main.a410f3c7.js.map": "/solvy/static/js/main.a410f3c7.js.map"
   },
   "entrypoints": [
-    "static/css/main.3bcb40e7.css",
-    "static/js/main.aec98443.js"
+    "static/css/main.1a1fb32a.css",
+    "static/js/main.a410f3c7.js"
   ]
 }
