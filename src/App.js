@@ -7,8 +7,9 @@ import ScanSolve from './Components/ScanSolve';
 import ChatPDF from './Components/ChatPDF';
 import VidSum from './Components/VidSum';
 import EssayWriter from "./Components/EssayWriter"
-import { Routes, Route } from "react-router-dom";
 import PrivacyPolicy from './Components/Policy';
+import { Routes, Route } from "react-router-dom";
+
 function App() {
   return (
     <Routes>
@@ -22,7 +23,6 @@ function App() {
        <Footer/>
        
     </div>} />
-        <Route path="/about" element={<About />} />
         <Route path="/policy" element={<PrivacyPolicy />} />
       </Routes>
     
