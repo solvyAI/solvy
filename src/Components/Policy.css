@@ -1,0 +1,86 @@
+.privacy-policy {
+  font-family: 'Inter', sans-serif;
+  color: #ffffff;
+  background-color: #000000;
+  padding: 20px;
+  overflow-y: auto;
+  background-color: rgb(20, 20, 20);
+}
+
+.header {
+  display: flex;
+  justify-content: flex-start; /* Align items to the left */
+  align-items: center;
+  font-size: 50px;
+  color: rgb(85, 40, 250);
+}
+
+.underline {
+  text-decoration: underline;
+}
+
+.logo {
+  font-size: 50px;
+  font-weight: bold;
+}
+
+.logo-image {
+  width: 125px; /* Adjust width as needed */
+  height: auto; /* Maintain aspect ratio */
+  margin-right: 10px; /* Optional: Adjust spacing between image and text */
+}
+
+.nav a {
+  color: #ffffff;
+  text-decoration: none;
+  margin-left: 20px;
+  font-size: 14px;
+}
+
+.nav a:hover {
+  text-decoration: underline;
+}
+
+.main-content {
+  margin-top: 20px;
+}
+
+.introduction,
+.information {
+  margin-bottom: 20px;
+  font-size: 24px;
+}
+
+.introduction h1 {
+  font-size: 45px;
+  color: #ffffff;
+  margin-bottom: 10px;
+}
+
+.information h2 {
+  font-size: 30px;
+  color: #ffffff;
+  margin-bottom: 10px;
+}
+
+.introduction p,
+.information p {
+  color: #bbbbbb;
+  font-size: 14px;
+  line-height: 1.6;
+}
+
+.introduction a {
+  color: #1e90ff;
+  text-decoration: none;
+}
+
+.introduction a:hover {
+  text-decoration: underline;
+}
+p {
+  font-family: 'Inter', sans-serif;
+  font-size: 16px; 
+  font-weight: 500;
+}
+
