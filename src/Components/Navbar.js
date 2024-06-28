@@ -41,7 +41,7 @@ const Navbar = () => { // Rename the component to Navbar
       </div>
       <div className="navbar-links-container">
         <a href="#home">Home</a>
-        <a href="#about">Features</a>
+        <a href="#/Policy">Policy and Terms</a>
       </div>
       <div className="navbar-menu-container">
         <HiOutlineBars3 onClick={() => setOpenMenu(true)} />

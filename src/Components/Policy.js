@@ -1,17 +1,23 @@
 import React from 'react';
 import './Policy.css';
 import Logo from "../Assets/Untitled design(6).png";
-
+import { Link } from 'react-router-dom';
 const PrivacyPolicy = () => {
   return (
-    <div className="privacy-policy">
-      <header className="header">
-      <div className="logo">
-          <img src={Logo} alt="AppNation Logo" className="logo-image" />
 
-        </div>
+    <div className="privacy-policy">
+        <Link to="/" style={{ textDecoration: 'none', color: 'inherit' }}>
+        <header className="header">
+      <div className="logo">
+    <a href="/#/">
+        <img src={Logo} alt="Logo" className="logo-image" />
+    </a>
+</div>
+
         <div className="logo">Solvy AI</div>
       </header>
+            </Link>
+      
       <main className="main-content">
         <section className="introduction">
           <h1>Introduction</h1>
